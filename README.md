@@ -27,29 +27,29 @@ It allows admins to manage members, payments, and complaints in a centralized sy
 ## 📷 Screenshots
 
 ### 🔐 Login Page
-![Login](login1.png)
+![Login](ADVANCE%20JAVA%20PROJECT/VSS/login1.png)
 
 ### 📝 Register Page
-![Register](register.png)
+![Register](ADVANCE%20JAVA%20PROJECT/VSS/register.png)
 
 ### 📊 Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](ADVANCE%20JAVA%20PROJECT/VSS/dashboard.png)
 
 ### 👥 Member Management
-![Members](member.png)
+![Members](ADVANCE%20JAVA%20PROJECT/VSS/member.png)
 
 ### 💰 Payment Management
-![Payments](payment.png)
+![Payments](ADVANCE%20JAVA%20PROJECT/VSS/payment.png)
 
 ### 💳 Payment List
-![Payment List](payment2.png)
+![Payment List](ADVANCE%20JAVA%20PROJECT/VSS/payment2.png)
 
 ### 🛠 Complaint Management
-![Complaints](complaint.png)
+![Complaints](ADVANCE%20JAVA%20PROJECT/VSS/complaint.png)
 
 ### 🗄 Database Tables
-![Database](databse1.png)
-![Database](database2.png)
+![Database](ADVANCE%20JAVA%20PROJECT/VSS/databse1.png)
+![Database](ADVANCE%20JAVA%20PROJECT/VSS/database2.png)
 
 ---
 
